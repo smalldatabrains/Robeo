@@ -15,6 +15,30 @@ From ideation to Fusion 360 CAD files
 
 ![alt text](<Capture d’écran . 2025-07-14 à 14.25.39.jpeg>)
 
+## Transmission
+Different option for gear transmissions :
+- Spur gear
+- Planetary gear
+- Worm gear
+- Helical gear 
+
+Actually Helical gear geometry can be applied to a planetary system. 
+
+Gearbox aims for several use at the same time :
+- Torque multiplication
+- Speed reduction
+- Precision control
+- Efficiency and Battery life
+
+The Gearbox ratio then become an important parameter to compute and design depending on what we would like to achieve :
+- GR = Input speed / Ouput Speed = number of teeth output / number of teeth input
+- Usually for arm movement or heavy lifting we are picking a ration or 30:1 to 300:1
+
+## Todo List
+- [] design the gear box
+- [] design transmission using a belt
+- [] Download raspberry CAD file and integrate it
+
 ## Wishlist of purchases
 
 -  [DC power supply](https://www.amazon.fr/Alimentation-commutation-alimentation-dencodeur-interrupteur/dp/B0CZ92WTQ3/ref=sr_1_2_sspa?crid=1KP2DKI4DRWE8&dib=eyJ2IjoiMSJ9.h7KpUxLzbp2u0DC-eb6mF-8AT9Sr7KdlnpBayZi66mrrjYG1EMsjKHjvlKPLnuL2o8STWiFq4Y5GeuDoF4cIKd8HixhrZXJ5FbpLsw6AaEAMmkriLhwvkMN07xKhLCktkW7s6eXRwdQghgShx7yKMu0M8rt7lEa0jn7Hhusl7XIWlFSoT26FyFS2kZp5L5nCDhSSkLcDDobRjyD0hMHjPNPbKjRxRrwOEBWpwaoS3YvNExenq9d6IS-xdF3_YpcoLSiDmPRaF3-1RBCD2FgCzSX56iGQS3_4rD41mlMS7tA.2tLYog-vOUv0c14NZfgRM32ovD8WfcIhPFKfgrPusSQ&dib_tag=se&keywords=power%2Bsupply%2Bcontrol%2B12v&qid=1752486169&sprefix=power%2Bsu%2Caps%2C92&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
