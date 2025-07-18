@@ -15,6 +15,13 @@ From ideation to Fusion 360 CAD files
 
 ![alt text](<Capture d’écran . 2025-07-14 à 14.25.39.jpeg>)
 
+For a 2 leg segments, we have
+
+![alt text](IK1.jpeg)
+![alt text](IK2.jpeg)
+![alt text](IK3.jpeg)
+
+
 ## Transmission
 Different option for gear transmissions :
 - Spur gear
