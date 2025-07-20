@@ -1,6 +1,8 @@
 # ROBEO
 
 Goal of the repo is to learn about robotics and slowly get back to CAD designs in Fusion 360.
+Only goal is to make Romeo have fun with it.
+![alt text](IMG_3776.jpg)
 
 
 ## Design
@@ -42,9 +44,9 @@ The Gearbox ratio then become an important parameter to compute and design depen
 - Usually for arm movement or heavy lifting we are picking a ration or 30:1 to 300:1
 
 ## Todo List
-- [] design the gear box
-- [] design transmission using a belt
-- [] Download raspberry CAD file and integrate it
+- [ ] design the gear box
+- [ ] design transmission using a belt
+- [ ] Download raspberry CAD file and integrate it
 
 ## Wishlist of purchases
 
