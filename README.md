@@ -1,9 +1,6 @@
 # ROBEO
 
 Goal of the repo is to learn about robotics and slowly get back to CAD designs in Fusion 360.
-Only goal is to make Romeo have fun with it.
-![alt text](IMG_3776.jpg)
-
 
 ## Design
 
